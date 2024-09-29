@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="christmasTree.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Christmas Tree0000" x="10" y="10" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0001" x="765" y="10" width="727" height="1186" frameX="-9" frameY="-9" frameWidth="745" frameHeight="1204"/>
+	<SubTexture name="Christmas Tree0002" x="1502" y="10" width="727" height="1186" frameX="-9" frameY="-9" frameWidth="745" frameHeight="1204"/>
+	<SubTexture name="Christmas Tree0003" x="2239" y="10" width="727" height="1186" frameX="-9" frameY="-9" frameWidth="745" frameHeight="1204"/>
+	<SubTexture name="Christmas Tree0004" x="2976" y="10" width="727" height="1186" frameX="-9" frameY="-9" frameWidth="745" frameHeight="1204"/>
+	<SubTexture name="Christmas Tree0005" x="10" y="1224" width="727" height="1186" frameX="-9" frameY="-9" frameWidth="745" frameHeight="1204"/>
+	<SubTexture name="Christmas Tree0006" x="747" y="1224" width="727" height="1186" frameX="-9" frameY="-9" frameWidth="745" frameHeight="1204"/>
+	<SubTexture name="Christmas Tree0007" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0008" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0009" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0010" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0011" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0012" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0013" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0014" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0015" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0016" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0017" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0018" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0019" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0020" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0021" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0022" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0023" x="1484" y="1224" width="745" height="1204"/>
+	<SubTexture name="Christmas Tree0024" x="1484" y="1224" width="745" height="1204"/>
+</TextureAtlas>

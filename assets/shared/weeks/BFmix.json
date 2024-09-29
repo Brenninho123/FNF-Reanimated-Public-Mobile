@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "phillystreets",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Darnell-bf-mix",
+			"Jeysbf",
+			[
+				66,
+				73,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"darnell",
+		"picoP",
+		"nene"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekend1"
+}

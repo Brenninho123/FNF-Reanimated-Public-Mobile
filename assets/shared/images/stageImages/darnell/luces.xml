@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="luces.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Luces0000" x="10" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0001" x="493" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0002" x="976" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0003" x="1459" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0004" x="10" y="299" width="473" height="279"/>
+	<SubTexture name="Luces0005" x="493" y="299" width="473" height="279"/>
+	<SubTexture name="Luces0006" x="976" y="299" width="473" height="279"/>
+	<SubTexture name="Luces0007" x="1459" y="299" width="473" height="279"/>
+	<SubTexture name="Luces0008" x="10" y="588" width="473" height="279"/>
+	<SubTexture name="Luces0009" x="493" y="588" width="473" height="279"/>
+	<SubTexture name="Luces0010" x="976" y="588" width="473" height="279"/>
+	<SubTexture name="Luces0011" x="1459" y="588" width="473" height="279"/>
+	<SubTexture name="Luces0012" x="10" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0013" x="493" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0014" x="976" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0015" x="1459" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0016" x="10" y="299" width="473" height="279"/>
+	<SubTexture name="Luces0017" x="493" y="299" width="473" height="279"/>
+	<SubTexture name="Luces0018" x="976" y="299" width="473" height="279"/>
+	<SubTexture name="Luces0019" x="1459" y="299" width="473" height="279"/>
+	<SubTexture name="Luces0020" x="10" y="588" width="473" height="279"/>
+	<SubTexture name="Luces0021" x="493" y="588" width="473" height="279"/>
+	<SubTexture name="Luces0022" x="976" y="588" width="473" height="279"/>
+	<SubTexture name="Luces0023" x="1459" y="588" width="473" height="279"/>
+	<SubTexture name="Luces0024" x="10" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0025" x="493" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0026" x="976" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0027" x="1459" y="10" width="473" height="279"/>
+	<SubTexture name="Luces0028" x="10" y="299" width="473" height="279"/>
+	<SubTexture name="Luces0029" x="493" y="299" width="473" height="279"/>
+</TextureAtlas>

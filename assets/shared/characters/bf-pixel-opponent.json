@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss left pose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss down pose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss up pose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up pose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss right pose"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "hey",
+			"indices": [],
+			"name": "yeah"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "right pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "left pose",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "normal",
+	"no_antialiasing": true,
+	"image": "characters/bfPixel",
+	"position": [
+		70,
+		450
+	],
+	"strumCovers": "normal",
+	"noteAssets": "pixelUI/normal",
+	"healthicon": "icon-bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		55,
+		73,
+		130
+	],
+	"camera_position": [
+		-110,
+		-270
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 6.1,
+	"scale": 6.1,
+	"_editor_isPlayer": false
+}

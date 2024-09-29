@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Hank Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-83
+			],
+			"anim": "ready",
+			"fps": 24,
+			"name": "HankGetReady0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HankAssets",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

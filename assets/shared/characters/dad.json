@@ -1,0 +1,187 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				28
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				18
+			],
+			"anim": "singLEFT-beat",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT beat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-24
+			],
+			"anim": "singDOWN-beat",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN beat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				10
+			],
+			"anim": "singUP-beat",
+			"fps": 24,
+			"name": "Dad Sing Note UP beat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				29
+			],
+			"anim": "singRIGHT-beat",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT beat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Dad idle dance alt",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "dad",
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST",
+	"position": [
+		0,
+		0
+	],
+	"strumCovers": "dad",
+	"noteAssets": "daddy_dearest",
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

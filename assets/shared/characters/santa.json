@@ -1,0 +1,40 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "PlayAnimation",
+			"fps": 24,
+			"name": "santa whole scene",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "normal",
+	"no_antialiasing": false,
+	"image": "characters/santa_speaks_assets",
+	"position": [
+		360,
+		350
+	],
+	"strumCovers": "normal",
+	"noteAssets": "normal",
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		50,
+		20
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

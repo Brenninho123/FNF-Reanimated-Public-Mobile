@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				327,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hank Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hank right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hank Up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "kill",
+			"indices": [],
+			"name": "HankScaredShootsTiky"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Hank Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				10
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "Hank screamright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hank Down Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				53,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Shoot",
+			"indices": [],
+			"name": "Hank Left Shoot"
+		},
+		{
+			"offsets": [
+				52,
+				98
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-shoot",
+			"loop": false,
+			"name": "Hank Left Shoot"
+		},
+		{
+			"offsets": [
+				-9,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-shoot",
+			"loop": false,
+			"name": "Hank right shoot"
+		},
+		{
+			"offsets": [
+				1,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-shoot",
+			"loop": false,
+			"name": "Hank Up shoot"
+		},
+		{
+			"offsets": [
+				40,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-shoot",
+			"loop": false,
+			"name": "Hank Down Shoot"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Hank",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

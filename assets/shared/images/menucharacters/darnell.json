@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"image": "darnell",
+	"position": [
+		50,
+		-74
+	],
+	"flipX": false,
+	"scale": 1.2,
+	"confirm_anim": "idle"
+}

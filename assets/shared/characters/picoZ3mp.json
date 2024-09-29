@@ -1,0 +1,216 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				18
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				25
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				-36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				-35
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Pico NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				35
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Pico Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-57
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Pico Down Note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				108,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Shoot",
+			"indices": [],
+			"name": "shoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				3
+			],
+			"anim": "singUP-shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				3
+			],
+			"anim": "singDOWN-shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				3
+			],
+			"anim": "singLEFT-shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				3
+			],
+			"anim": "singRIGHT-shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-7
+			],
+			"anim": "reload",
+			"fps": 24,
+			"name": "reload",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "normal",
+	"no_antialiasing": false,
+	"image": "unlockable characters/pico",
+	"position": [
+		0,
+		300
+	],
+	"strumCovers": "normal",
+	"noteAssets": "notas_chidas",
+	"healthicon": "pico-z3mp",
+	"flip_x": true,
+	"healthbar_colors": [
+		181,
+		216,
+		75
+	],
+	"camera_position": [
+		30,
+		10
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

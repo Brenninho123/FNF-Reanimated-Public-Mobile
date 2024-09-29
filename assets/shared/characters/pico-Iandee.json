@@ -1,0 +1,227 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				35
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico Note Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				28
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				97
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pico Up note miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				487
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pico Down Note MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				83
+			],
+			"anim": "attack 1",
+			"fps": 20,
+			"name": "Pico shoot 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				183
+			],
+			"anim": "attack 2",
+			"fps": 20,
+			"name": "Pico shoot 2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				95
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				-8
+			],
+			"anim": "hit",
+			"fps": 20,
+			"name": "Pico hit spray can",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "pre-attack",
+			"fps": 20,
+			"name": "Pico gun reload",
+			"indices": []
+		},
+		{
+			"offsets": [
+				97,
+				83
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT-shoot",
+			"indices": [],
+			"name": "Pico shoot 1"
+		},
+		{
+			"offsets": [
+				98,
+				83
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP-shoot",
+			"indices": [],
+			"name": "Pico shoot 1"
+		},
+		{
+			"offsets": [
+				18,
+				183
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT-shoot",
+			"indices": [],
+			"name": "Pico shoot 2"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "reload",
+			"indices": [],
+			"name": "Pico gun reload"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				183
+			],
+			"anim": "singDOWN-shoot",
+			"fps": 20,
+			"name": "Pico shoot 2",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "pico",
+	"no_antialiasing": false,
+	"image": "unlockable characters/Pico-Iandee",
+	"position": [
+		0,
+		300
+	],
+	"strumCovers": "pico",
+	"noteAssets": "pico",
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		133,
+		230,
+		81
+	],
+	"camera_position": [
+		-10,
+		-90
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

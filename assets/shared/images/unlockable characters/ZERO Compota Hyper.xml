@@ -1,0 +1,844 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ZERO Compota Hyper.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ALT 2 Compota Hyper DOWN0000" x="7508" y="3960" width="390" height="358" frameX="0" frameY="-4" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0001" x="7508" y="3960" width="390" height="358" frameX="0" frameY="-4" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0002" x="4590" y="7296" width="382" height="361" frameX="-4" frameY="-1" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0003" x="4590" y="7296" width="382" height="361" frameX="-4" frameY="-1" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0004" x="7593" y="5973" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0005" x="4302" y="7658" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0006" x="6826" y="6194" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0007" x="7205" y="6341" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0008" x="7593" y="6336" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0009" x="7593" y="6336" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0010" x="7584" y="6699" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0011" x="7584" y="6699" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0012" x="7584" y="6699" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper DOWN0013" x="7584" y="6699" width="378" height="362" frameX="-6" frameY="0" frameWidth="390" frameHeight="362"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0000" x="2184" y="5746" width="399" height="417" frameX="0" frameY="0" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0001" x="2184" y="5746" width="399" height="417" frameX="0" frameY="0" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0002" x="5354" y="4936" width="396" height="415" frameX="-5" frameY="-2" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0003" x="5354" y="4936" width="396" height="415" frameX="-5" frameY="-2" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0004" x="5354" y="4108" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0005" x="5354" y="4522" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0006" x="5753" y="4520" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0007" x="5753" y="4520" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0008" x="6152" y="4520" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0009" x="6152" y="4520" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0010" x="2546" y="4519" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0011" x="2546" y="4519" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0012" x="2546" y="4519" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0013" x="2546" y="4519" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0014" x="2546" y="4519" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0015" x="2546" y="4519" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0016" x="2546" y="4519" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper LEFT0017" x="2546" y="4519" width="398" height="413" frameX="-6" frameY="-4" frameWidth="404" frameHeight="417"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0000" x="4565" y="3226" width="403" height="429" frameX="0" frameY="-6" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0001" x="4565" y="3226" width="403" height="429" frameX="0" frameY="-6" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0002" x="4969" y="3193" width="399" height="433" frameX="-7" frameY="-2" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0003" x="4969" y="3193" width="399" height="433" frameX="-7" frameY="-2" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0004" x="1196" y="2815" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0005" x="1316" y="3251" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0006" x="1717" y="3250" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0007" x="2118" y="3250" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0008" x="2519" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0009" x="2519" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0010" x="2920" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0011" x="2920" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0012" x="2920" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0013" x="2920" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0014" x="2920" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0015" x="2920" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0016" x="2920" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper RIGHT0017" x="2920" y="3214" width="400" height="435" frameX="-7" frameY="0" frameWidth="407" frameHeight="435"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0000" x="2519" y="3650" width="372" height="462" frameX="-6" frameY="0" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0001" x="2519" y="3650" width="372" height="462" frameX="-6" frameY="0" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0002" x="2892" y="3650" width="372" height="455" frameX="-4" frameY="-7" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0003" x="2892" y="3650" width="372" height="455" frameX="-4" frameY="-7" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0004" x="3265" y="3665" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0005" x="3641" y="3665" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0006" x="4017" y="3686" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0007" x="4393" y="3686" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0008" x="4769" y="3656" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0009" x="4769" y="3656" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0010" x="5145" y="3627" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0011" x="5145" y="3627" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0012" x="5145" y="3627" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0013" x="5145" y="3627" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0014" x="5145" y="3627" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0015" x="5145" y="3627" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0016" x="5145" y="3627" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="ALT 2 Compota Hyper UP0017" x="5145" y="3627" width="375" height="451" frameX="0" frameY="-11" frameWidth="378" frameHeight="462"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0000" x="4499" y="6938" width="389" height="357" frameX="0" frameY="-19" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0001" x="4893" y="6889" width="387" height="364" frameX="-2" frameY="-13" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0002" x="4893" y="6889" width="387" height="364" frameX="-2" frameY="-13" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0003" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0004" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0005" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0006" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0007" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0008" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0009" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0010" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0011" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0012" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0013" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0014" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0015" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0016" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0017" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0018" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0019" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0020" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0021" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0022" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0023" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0024" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0025" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0026" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0027" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0028" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0029" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0030" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0031" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0032" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0033" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0034" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0035" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0036" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0037" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0038" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0039" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0040" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0041" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0042" x="6826" y="5816" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0043" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS DOWN0044" x="4909" y="6511" width="379" height="377" frameX="-5" frameY="0" frameWidth="389" frameHeight="377"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0000" x="3776" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0001" x="6128" y="4934" width="396" height="414" frameX="-5" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0002" x="6128" y="4934" width="396" height="414" frameX="-5" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0003" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0004" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0005" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0006" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0007" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0008" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0009" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0010" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0011" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0012" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0013" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0014" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0015" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0016" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0017" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0018" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0019" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0020" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0021" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0022" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0023" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0024" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0025" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0026" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0027" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0028" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0029" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0030" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0031" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0032" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0033" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0034" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0035" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0036" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0037" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0038" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0039" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0040" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0041" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0042" x="4576" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0043" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS LEFT0044" x="4176" y="4138" width="399" height="414" frameX="0" frameY="0" frameWidth="401" frameHeight="414"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0000" x="5369" y="3193" width="403" height="428" frameX="0" frameY="-15" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0001" x="3461" y="2384" width="407" height="444" frameX="-7" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0002" x="3461" y="2384" width="407" height="444" frameX="-7" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0003" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0004" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0005" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0006" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0007" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0008" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0009" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0010" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0011" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0012" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0013" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0014" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0015" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0016" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0017" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0018" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0019" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0020" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0021" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0022" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0023" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0024" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0025" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0026" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0027" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0028" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0029" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0030" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0031" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0032" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0033" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0034" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0035" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0036" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0037" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0038" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0039" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0040" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0041" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0042" x="6269" y="3139" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0043" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS RIGHT 0044" x="756" y="1626" width="403" height="444" frameX="-13" frameY="0" frameWidth="416" frameHeight="444"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0000" x="5773" y="3230" width="372" height="463" frameX="-24" frameY="-42" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0001" x="7777" y="900" width="386" height="503" frameX="-2" frameY="0" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0002" x="7777" y="900" width="386" height="503" frameX="-2" frameY="0" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0003" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0004" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0005" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0006" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0007" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0008" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0009" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0010" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0011" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0012" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0013" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0014" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0015" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0016" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0017" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0018" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0019" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0020" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0021" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0022" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0023" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0024" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0025" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0026" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0027" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0028" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0029" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0030" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0031" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0032" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0033" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0034" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0035" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0036" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0037" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0038" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0039" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0040" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0041" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0042" x="7190" y="1371" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0043" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper ALT 2 MISS UP0044" x="6797" y="1378" width="392" height="493" frameX="0" frameY="-10" frameWidth="396" frameHeight="505"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0000" x="7709" y="4319" width="394" height="353" frameX="-43" frameY="-5" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0001" x="2311" y="7809" width="430" height="353" frameX="-7" frameY="-5" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0002" x="2881" y="4960" width="432" height="357" frameX="0" frameY="-1" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0003" x="2918" y="5318" width="432" height="357" frameX="0" frameY="-1" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0004" x="7502" y="7435" width="361" height="358" frameX="-70" frameY="0" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0005" x="7502" y="7435" width="361" height="358" frameX="-70" frameY="0" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0006" x="7139" y="7420" width="362" height="358" frameX="-69" frameY="0" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0007" x="7139" y="7420" width="362" height="358" frameX="-69" frameY="0" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0008" x="6775" y="7277" width="363" height="358" frameX="-68" frameY="0" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper DOWN BEATBOX0009" x="6775" y="7277" width="363" height="358" frameX="-68" frameY="0" frameWidth="437" frameHeight="358"/>
+	<SubTexture name="Compota Hyper Dead Loop0000" x="6357" y="1848" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0001" x="6797" y="1872" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0002" x="6797" y="1872" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0003" x="7237" y="1865" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0004" x="7237" y="1865" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0005" x="7677" y="1840" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0006" x="7677" y="1840" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0007" x="5037" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0008" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0009" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0010" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0011" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0012" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0013" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0014" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0015" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0016" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0017" x="6357" y="1848" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0018" x="6797" y="1872" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0019" x="6797" y="1872" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0020" x="7237" y="1865" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0021" x="7237" y="1865" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0022" x="7677" y="1840" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0023" x="7677" y="1840" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0024" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0025" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0026" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0027" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0028" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0029" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0030" x="5037" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0031" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0032" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead Loop0033" x="5477" y="1885" width="439" height="435"/>
+	<SubTexture name="Compota Hyper Dead confirm0000" x="7583" y="1404" width="439" height="435" frameX="0" frameY="-64" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0001" x="804" y="5450" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0002" x="788" y="4950" width="439" height="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0003" x="895" y="5920" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0004" x="905" y="6390" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0005" x="905" y="6860" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0006" x="1030" y="7330" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0007" x="1228" y="4950" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0008" x="1244" y="5420" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0009" x="1335" y="5890" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0010" x="1345" y="6360" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0011" x="1345" y="6830" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0012" x="1470" y="7300" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0013" x="6897" y="901" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0014" x="7337" y="900" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0015" x="3277" y="1042" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0016" x="3717" y="1042" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0017" x="4157" y="1042" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0018" x="4597" y="1032" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0019" x="5037" y="1021" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0020" x="5477" y="1021" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0021" x="5917" y="983" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0022" x="6357" y="1378" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0023" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0024" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0025" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0026" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0027" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0028" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0029" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0030" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0031" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0032" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper Dead confirm0033" x="5917" y="1453" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Compota Hyper HEY!!0000" x="7242" y="5592" width="384" height="380" frameX="-32" frameY="-34" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0001" x="7242" y="5592" width="384" height="380" frameX="-32" frameY="-34" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0002" x="4911" y="6131" width="384" height="379" frameX="-32" frameY="-35" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0003" x="4911" y="6131" width="384" height="379" frameX="-32" frameY="-35" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0004" x="5677" y="6072" width="387" height="372" frameX="-30" frameY="-42" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0005" x="5677" y="6072" width="387" height="372" frameX="-30" frameY="-42" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0006" x="4205" y="7296" width="384" height="360" frameX="-29" frameY="-54" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0007" x="4411" y="4990" width="374" height="400" frameX="-42" frameY="-15" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0008" x="7677" y="4812" width="377" height="405" frameX="-42" frameY="-11" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0009" x="6269" y="2720" width="437" height="418"/>
+	<SubTexture name="Compota Hyper HEY!!0010" x="6269" y="2720" width="437" height="418"/>
+	<SubTexture name="Compota Hyper HEY!!0011" x="2169" y="6587" width="408" height="411" frameX="-1" frameY="-7" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0012" x="2169" y="6587" width="408" height="411" frameX="-1" frameY="-7" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0013" x="6673" y="3182" width="434" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0014" x="6673" y="3182" width="434" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0015" x="7108" y="3182" width="427" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0016" x="7108" y="3182" width="427" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0017" x="5931" y="3694" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0018" x="1316" y="3687" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0019" x="1726" y="3686" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0020" x="1901" y="7770" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0021" x="5931" y="4107" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0022" x="5931" y="4107" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0023" x="1263" y="4520" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0024" x="1263" y="4520" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0025" x="1263" y="4520" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0026" x="1263" y="4520" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0027" x="1263" y="4520" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0028" x="1263" y="4520" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0029" x="1263" y="4520" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0030" x="1263" y="4520" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper HEY!!0031" x="1263" y="4520" width="409" height="412" frameX="-1" frameY="-6" frameWidth="437" frameHeight="418"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0000" x="6711" y="3595" width="382" height="419" frameX="-43" frameY="0" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0001" x="3041" y="2781" width="418" height="419" frameX="-7" frameY="0" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0002" x="2206" y="2781" width="425" height="415" frameX="-1" frameY="-4" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0003" x="889" y="3307" width="426" height="415" frameX="0" frameY="-4" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0004" x="3719" y="5428" width="361" height="414" frameX="-65" frameY="-5" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0005" x="3719" y="5428" width="361" height="414" frameX="-65" frameY="-5" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0006" x="4081" y="5395" width="361" height="414" frameX="-65" frameY="-5" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0007" x="4081" y="5395" width="361" height="414" frameX="-65" frameY="-5" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0008" x="4443" y="5391" width="361" height="414" frameX="-65" frameY="-5" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper LEFT BEATBOX0009" x="4443" y="5391" width="361" height="414" frameX="-65" frameY="-5" frameWidth="426" frameHeight="419"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0000" x="7147" y="6704" width="374" height="356" frameX="-1" frameY="-4" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0001" x="7147" y="6704" width="374" height="356" frameX="-1" frameY="-4" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0002" x="7147" y="7061" width="371" height="358" frameX="0" frameY="-1" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0003" x="7147" y="7061" width="371" height="358" frameX="0" frameY="-1" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0004" x="6031" y="6764" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0005" x="6403" y="6205" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0006" x="6403" y="6565" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0007" x="6775" y="6557" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0008" x="6403" y="6925" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0009" x="6403" y="6925" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0010" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0011" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0012" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0013" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0014" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0015" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0016" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0017" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0018" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0019" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0020" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0021" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0022" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0023" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0024" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0025" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0026" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0027" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0028" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN0029" x="6775" y="6917" width="371" height="359" frameX="0" frameY="0" frameWidth="375" frameHeight="360"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0000" x="5656" y="6764" width="374" height="358" frameX="-1" frameY="-35" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0001" x="5296" y="6137" width="370" height="393" frameX="-1" frameY="0" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0002" x="5296" y="6137" width="370" height="393" frameX="-1" frameY="0" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0003" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0004" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0005" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0006" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0007" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0008" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0009" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0010" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0011" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0012" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0013" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0014" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0015" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0016" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0017" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0018" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0019" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0020" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0021" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0022" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0023" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0024" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0025" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0026" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0027" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE DOWN MISS0028" x="6453" y="5816" width="372" height="388" frameX="0" frameY="-4" frameWidth="375" frameHeight="393"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0000" x="2584" y="5718" width="383" height="406" frameX="0" frameY="0" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0001" x="2584" y="5718" width="383" height="406" frameX="0" frameY="0" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0002" x="3342" y="5676" width="376" height="406" frameX="-11" frameY="0" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0003" x="3342" y="5676" width="376" height="406" frameX="-11" frameY="0" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0004" x="3363" y="6472" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0005" x="3739" y="6472" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0006" x="2956" y="6532" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0007" x="2987" y="6935" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0008" x="3363" y="6875" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0009" x="3363" y="6875" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0010" x="3739" y="6875" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0011" x="3739" y="6875" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0012" x="3739" y="6875" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0013" x="3739" y="6875" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0014" x="3739" y="6875" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT0015" x="3739" y="6875" width="375" height="402" frameX="-13" frameY="-4" frameWidth="388" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0000" x="2605" y="6125" width="383" height="406" frameX="0" frameY="-26" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0001" x="4976" y="4108" width="377" height="437" frameX="-13" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0002" x="4976" y="4108" width="377" height="437" frameX="-13" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0003" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0004" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0005" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0006" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0007" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0008" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0009" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0010" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0011" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0012" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0013" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0014" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0015" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0016" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0017" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0018" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0019" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0020" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0021" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0022" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0023" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0024" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0025" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0026" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0027" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0028" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0029" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0030" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0031" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0032" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE LEFT MISS0033" x="6525" y="4934" width="375" height="437" frameX="-11" frameY="0" frameWidth="390" frameHeight="437"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0000" x="2193" y="6164" width="411" height="404" frameX="-1" frameY="-2" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0001" x="2193" y="6164" width="411" height="404" frameX="-1" frameY="-2" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0002" x="2078" y="4933" width="411" height="406" frameX="0" frameY="0" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0003" x="2078" y="4933" width="411" height="406" frameX="0" frameY="0" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0004" x="2577" y="7010" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0005" x="1726" y="4099" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0006" x="2136" y="4125" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0007" x="2546" y="4113" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0008" x="2956" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0009" x="2956" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0010" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0011" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0012" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0013" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0014" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0015" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0016" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0017" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0018" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0019" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0020" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT0021" x="3366" y="4117" width="409" height="405" frameX="0" frameY="-1" frameWidth="412" frameHeight="406"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0000" x="2094" y="5340" width="411" height="405" frameX="-1" frameY="-29" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0001" x="3460" y="2829" width="403" height="432" frameX="0" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0002" x="3460" y="2829" width="403" height="432" frameX="0" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0003" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0004" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0005" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0006" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0007" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0008" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0009" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0010" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0011" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0012" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0013" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0014" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0015" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0016" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0017" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0018" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0019" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0020" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0021" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0022" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0023" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0024" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0025" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0026" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0027" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0028" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0029" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0030" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0031" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0032" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0033" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0034" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0035" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0036" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0037" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0038" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0039" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0040" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0041" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0042" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0043" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0044" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE RIGHT MISS0045" x="2632" y="2781" width="408" height="432" frameX="-1" frameY="0" frameWidth="412" frameHeight="434"/>
+	<SubTexture name="Compota Hyper NOTE UP0000" x="6502" y="5372" width="369" height="443" frameX="-7" frameY="0" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0001" x="6502" y="5372" width="369" height="443" frameX="-7" frameY="0" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0002" x="5751" y="4936" width="376" height="437" frameX="-1" frameY="-5" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0003" x="5751" y="4936" width="376" height="437" frameX="-1" frameY="-5" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0004" x="2945" y="4523" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0005" x="3323" y="4523" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0006" x="4976" y="4546" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0007" x="3701" y="4553" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0008" x="4079" y="4553" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0009" x="4079" y="4553" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0010" x="4457" y="4553" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0011" x="4457" y="4553" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0012" x="4457" y="4553" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0013" x="4457" y="4553" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP0014" x="4457" y="4553" width="377" height="436" frameX="0" frameY="-6" frameWidth="377" frameHeight="443"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0000" x="6872" y="5372" width="369" height="442" frameX="0" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0001" x="6128" y="5349" width="373" height="439" frameX="0" frameY="-3" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0002" x="6128" y="5349" width="373" height="439" frameX="0" frameY="-3" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0003" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0004" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0005" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0006" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0007" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0008" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0009" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0010" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0011" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0012" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0013" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0014" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0015" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0016" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0017" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0018" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0019" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0020" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0021" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0022" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper NOTE UP MISS0023" x="6341" y="3595" width="369" height="442" frameX="-1" frameY="0" frameWidth="373" frameHeight="442"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0000" x="1775" y="2426" width="430" height="411" frameX="0" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0001" x="1775" y="2838" width="430" height="411" frameX="0" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0002" x="757" y="2483" width="431" height="411" frameX="-1" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0003" x="764" y="2895" width="431" height="411" frameX="-1" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0004" x="3869" y="2800" width="432" height="411" frameX="-1" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0005" x="3869" y="2800" width="432" height="411" frameX="-1" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0006" x="4302" y="2814" width="432" height="411" frameX="-1" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0007" x="4302" y="2814" width="432" height="411" frameX="-1" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0008" x="757" y="2071" width="432" height="411" frameX="-1" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper RIGHT  BEATBOX0009" x="757" y="2071" width="432" height="411" frameX="-1" frameY="0" frameWidth="433" frameHeight="411"/>
+	<SubTexture name="Compota Hyper SIN GORRA0000" x="2742" y="7809" width="390" height="382" frameX="0" frameY="-122" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0001" x="2742" y="7809" width="390" height="382" frameX="0" frameY="-122" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0002" x="4140" y="5810" width="388" height="384" frameX="-1" frameY="-120" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0003" x="4140" y="5810" width="388" height="384" frameX="-1" frameY="-120" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0004" x="3754" y="5843" width="385" height="388" frameX="-1" frameY="-117" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0005" x="3754" y="5843" width="385" height="388" frameX="-1" frameY="-117" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0006" x="2490" y="4933" width="390" height="404" frameX="-6" frameY="-101" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0007" x="6944" y="4433" width="383" height="400" frameX="-17" frameY="-105" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0008" x="4187" y="3226" width="377" height="459" frameX="-28" frameY="-46" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0009" x="4187" y="3226" width="377" height="459" frameX="-28" frameY="-46" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0010" x="789" y="3972" width="471" height="498" frameX="-28" frameY="-7" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0011" x="7433" y="400" width="510" height="499" frameX="-30" frameY="-6" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0012" x="7433" y="400" width="510" height="499" frameX="-30" frameY="-6" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0013" x="6402" y="401" width="513" height="499" frameX="-32" frameY="-5" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0014" x="1726" y="593" width="516" height="504" frameX="-32" frameY="0" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0015" x="1726" y="593" width="516" height="504" frameX="-32" frameY="0" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0016" x="2243" y="593" width="516" height="504" frameX="-34" frameY="0" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0017" x="2243" y="593" width="516" height="504" frameX="-34" frameY="0" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0018" x="6916" y="401" width="516" height="496" frameX="-34" frameY="-8" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0019" x="6916" y="401" width="516" height="496" frameX="-34" frameY="-8" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0020" x="2760" y="581" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0021" x="3277" y="540" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0022" x="3794" y="540" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0023" x="4311" y="530" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0024" x="4311" y="530" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0025" x="4828" y="519" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0026" x="4828" y="519" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0027" x="5345" y="519" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0028" x="5345" y="519" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0029" x="5862" y="481" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0030" x="1198" y="1096" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0031" x="1715" y="1098" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0032" x="2232" y="1098" width="516" height="501" frameX="-34" frameY="-3" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0033" x="1198" y="595" width="527" height="500" frameX="-20" frameY="-4" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0034" x="1198" y="595" width="527" height="500" frameX="-20" frameY="-4" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0035" x="495" y="7355" width="534" height="495" frameX="-17" frameY="-9" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0036" x="6379" y="901" width="517" height="476" frameX="-5" frameY="-29" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0037" x="3137" y="7338" width="381" height="395" frameX="-2" frameY="-110" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0038" x="3911" y="7716" width="390" height="379" frameX="-1" frameY="-125" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0039" x="3911" y="7716" width="390" height="379" frameX="-1" frameY="-125" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0040" x="3522" y="7719" width="388" height="382" frameX="-1" frameY="-122" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0041" x="3522" y="7719" width="388" height="382" frameX="-1" frameY="-122" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0042" x="3133" y="7809" width="388" height="383" frameX="-1" frameY="-121" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper SIN GORRA0043" x="3133" y="7809" width="388" height="383" frameX="-1" frameY="-121" frameWidth="551" frameHeight="505"/>
+	<SubTexture name="Compota Hyper UP BEATBOX0000" x="3519" y="7278" width="341" height="440" frameX="-43" frameY="0" frameWidth="384" frameHeight="440"/>
+	<SubTexture name="Compota Hyper UP BEATBOX0001" x="2578" y="6569" width="377" height="440" frameX="-7" frameY="0" frameWidth="384" frameHeight="440"/>
+	<SubTexture name="Compota Hyper UP BEATBOX0002" x="2136" y="3686" width="382" height="438" frameX="-1" frameY="-2" frameWidth="384" frameHeight="440"/>
+	<SubTexture name="Compota Hyper UP BEATBOX0003" x="1785" y="6587" width="383" height="438" frameX="0" frameY="-2" frameWidth="384" frameHeight="440"/>
+	<SubTexture name="Compota Hyper UP BEATBOX0004" x="3861" y="7278" width="343" height="437" frameX="-39" frameY="-3" frameWidth="384" frameHeight="440"/>
+	<SubTexture name="Compota Hyper UP BEATBOX0005" x="3861" y="7278" width="343" height="437" frameX="-39" frameY="-3" frameWidth="384" frameHeight="440"/>
+	<SubTexture name="Compota Hyper UP BEATBOX0006" x="3351" y="4960" width="343" height="437" frameX="-39" frameY="-3" frameWidth="384" frameHeight="440"/>
+	<SubTexture name="Compota Hyper UP BEATBOX0007" x="3351" y="4960" width="343" height="437" frameX="-39" frameY="-3" frameWidth="384" frameHeight="440"/>
+	<SubTexture name="Compota Hyper UP BEATBOX0008" x="3695" y="4990" width="343" height="437" frameX="-39" frameY="-3" frameWidth="384" frameHeight="440"/>
+	<SubTexture name="Compota Hyper attack0000" x="6402" y="0" width="917" height="400" frameX="0" frameY="-253" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0001" x="7320" y="0" width="834" height="399" frameX="-91" frameY="-254" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0002" x="0" y="3037" width="763" height="525" frameX="-164" frameY="-128" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0003" x="0" y="3037" width="763" height="525" frameX="-164" frameY="-128" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0004" x="0" y="7355" width="494" height="653" frameX="-433" frameY="0" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0005" x="0" y="7355" width="494" height="653" frameX="-433" frameY="0" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0006" x="759" y="607" width="438" height="602" frameX="-489" frameY="-51" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0007" x="788" y="4471" width="474" height="478" frameX="-454" frameY="-176" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0008" x="5037" y="1491" width="517" height="393" frameX="-412" frameY="-261" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0009" x="1190" y="2424" width="451" height="390" frameX="-484" frameY="-264" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0010" x="4499" y="6573" width="393" height="364" frameX="-551" frameY="-293" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0011" x="5677" y="5698" width="387" height="373" frameX="-557" frameY="-284" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0012" x="5677" y="5698" width="387" height="373" frameX="-557" frameY="-284" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0013" x="4525" y="6198" width="383" height="374" frameX="-559" frameY="-283" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0014" x="4525" y="6198" width="383" height="374" frameX="-559" frameY="-283" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0015" x="4115" y="6570" width="383" height="374" frameX="-559" frameY="-283" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0016" x="4115" y="6570" width="383" height="374" frameX="-559" frameY="-283" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0017" x="4115" y="6570" width="383" height="374" frameX="-559" frameY="-283" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0018" x="4115" y="6570" width="383" height="374" frameX="-559" frameY="-283" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0019" x="4115" y="6570" width="383" height="374" frameX="-559" frameY="-283" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0020" x="4115" y="6570" width="383" height="374" frameX="-559" frameY="-283" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper attack0021" x="4115" y="6570" width="383" height="374" frameX="-559" frameY="-283" frameWidth="944" frameHeight="657"/>
+	<SubTexture name="Compota Hyper dies0000" x="3869" y="2384" width="433" height="415" frameX="-1" frameY="0" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0001" x="764" y="1210" width="433" height="415" frameX="-1" frameY="0" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0002" x="1261" y="1598" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0003" x="1701" y="1600" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0004" x="2141" y="1600" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0005" x="1261" y="2011" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0006" x="1701" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0007" x="1701" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0008" x="1701" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0009" x="1701" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0010" x="1701" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0011" x="1701" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0012" x="1701" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0013" x="1701" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0014" x="1701" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0015" x="2141" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0016" x="2141" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0017" x="2141" y="2013" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0018" x="2581" y="1955" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0019" x="2581" y="1955" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0020" x="3021" y="1955" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0021" x="3021" y="1955" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0022" x="2581" y="2368" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0023" x="2581" y="2368" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0024" x="3021" y="2368" width="439" height="412" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0025" x="4597" y="1502" width="439" height="439" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0026" x="4597" y="1502" width="439" height="439" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0027" x="5829" y="2795" width="439" height="434" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0028" x="5829" y="2795" width="439" height="434" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0029" x="5917" y="1923" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0030" x="5917" y="1923" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0031" x="6357" y="2284" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0032" x="6357" y="2284" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0033" x="6357" y="2284" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0034" x="6357" y="2284" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0035" x="6797" y="2308" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0036" x="7237" y="2301" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0037" x="7677" y="2276" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0038" x="7677" y="2712" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0039" x="7237" y="2737" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0040" x="7677" y="3148" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0041" x="2760" y="1083" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0042" x="2749" y="1519" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0043" x="3189" y="1519" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0044" x="3629" y="1512" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0045" x="4069" y="1512" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0046" x="3629" y="1948" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0047" x="4069" y="1948" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0048" x="4509" y="1942" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0049" x="4509" y="2378" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0050" x="4949" y="2321" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0051" x="5389" y="2321" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0052" x="5829" y="2359" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0053" x="6357" y="1848" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Compota Hyper dies0054" x="4949" y="2757" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0055" x="4949" y="2757" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0056" x="4949" y="2757" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper dies0057" x="5389" y="2757" width="439" height="435" frameX="0" frameY="-6" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="Compota Hyper hit0000" x="1470" y="7770" width="430" height="421" frameX="0" frameY="-16" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0001" x="6707" y="2744" width="418" height="437" frameX="-4" frameY="0" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0002" x="0" y="5764" width="803" height="437" frameX="-56" frameY="-38" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0003" x="2083" y="4531" width="395" height="393" frameX="-56" frameY="-38" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0004" x="4529" y="5806" width="381" height="391" frameX="-55" frameY="-40" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0005" x="5629" y="0" width="772" height="480" frameX="-55" frameY="-40" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0006" x="0" y="3972" width="788" height="447" frameX="-46" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0007" x="1030" y="7800" width="393" height="392" frameX="-46" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0008" x="0" y="4420" width="787" height="447" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0009" x="2351" y="7416" width="392" height="392" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0010" x="0" y="4868" width="787" height="447" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0011" x="2744" y="7416" width="392" height="392" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0012" x="0" y="5316" width="787" height="447" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0013" x="6551" y="4433" width="392" height="392" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0014" x="0" y="5316" width="787" height="447" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0015" x="6551" y="4433" width="392" height="392" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0016" x="0" y="5316" width="787" height="447" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0017" x="6551" y="4433" width="392" height="392" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper hit0018" x="0" y="5316" width="787" height="447" frameX="-47" frameY="-39" frameWidth="859" frameHeight="520"/>
+	<SubTexture name="Compota Hyper idle dance0000" x="7282" y="4834" width="394" height="388" frameX="-35" frameY="-23" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0001" x="3363" y="6083" width="390" height="388" frameX="-39" frameY="-23" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0002" x="4786" y="4990" width="380" height="388" frameX="-52" frameY="-24" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0003" x="5197" y="5352" width="378" height="388" frameX="-54" frameY="-24" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0004" x="5305" y="5741" width="371" height="395" frameX="-61" frameY="-17" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0005" x="7094" y="3595" width="403" height="395" frameX="-29" frameY="-17" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0006" x="3321" y="3262" width="432" height="402" frameX="0" frameY="-10" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0007" x="3754" y="3262" width="432" height="402" frameX="0" frameY="-10" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0008" x="1673" y="4520" width="409" height="412" frameX="-26" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0009" x="1673" y="4520" width="409" height="412" frameX="-26" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0010" x="1668" y="4933" width="409" height="412" frameX="-27" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0011" x="1668" y="4933" width="409" height="412" frameX="-27" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0012" x="1684" y="5346" width="409" height="412" frameX="-27" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0013" x="1684" y="5346" width="409" height="412" frameX="-27" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0014" x="1684" y="5346" width="409" height="412" frameX="-27" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0015" x="1684" y="5346" width="409" height="412" frameX="-27" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0016" x="1684" y="5346" width="409" height="412" frameX="-27" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle dance0017" x="1684" y="5346" width="409" height="412" frameX="-27" frameY="0" frameWidth="436" frameHeight="412"/>
+	<SubTexture name="Compota Hyper idle shaking0000" x="1775" y="5759" width="408" height="413" frameX="-1" frameY="0" frameWidth="409" frameHeight="413"/>
+	<SubTexture name="Compota Hyper idle shaking0001" x="2169" y="6999" width="407" height="412" frameX="-2" frameY="-1" frameWidth="409" frameHeight="413"/>
+	<SubTexture name="Compota Hyper idle shaking0002" x="1785" y="6173" width="407" height="413" frameX="-1" frameY="0" frameWidth="409" frameHeight="413"/>
+	<SubTexture name="Compota Hyper idle shaking0003" x="5521" y="3694" width="409" height="413"/>
+	<SubTexture name="Compota Hyper pre attack0000" x="6065" y="5789" width="387" height="373" frameX="0" frameY="-1" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0001" x="6065" y="5789" width="387" height="373" frameX="0" frameY="-1" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0002" x="7627" y="5592" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0003" x="7627" y="5592" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0004" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0005" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0006" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0007" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0008" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0009" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0010" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0011" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0012" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0013" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0014" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0015" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0016" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0017" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0018" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0019" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0020" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0021" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0022" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0023" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0024" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0025" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0026" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0027" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0028" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Compota Hyper pre attack0029" x="4140" y="6195" width="384" height="374" frameX="-1" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="dodge DOWN0000" x="0" y="607" width="758" height="612" frameX="0" frameY="-4" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge DOWN0001" x="5677" y="5374" width="450" height="323" frameX="0" frameY="-293" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge DOWN0002" x="0" y="1220" width="755" height="614" frameX="-1" frameY="-2" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge DOWN0003" x="495" y="7851" width="450" height="320" frameX="-1" frameY="-296" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge DOWN0004" x="5667" y="6445" width="452" height="318" frameX="-1" frameY="-298" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge DOWN0005" x="0" y="1835" width="752" height="616" frameX="-1" frameY="0" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge DOWN0006" x="2395" y="0" width="803" height="580" frameX="-10" frameY="-36" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge DOWN0007" x="1910" y="7416" width="440" height="353" frameX="-10" frameY="-263" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge DOWN0008" x="1261" y="4100" width="417" height="370" frameX="-36" frameY="-246" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge DOWN0009" x="792" y="0" width="800" height="594" frameX="-36" frameY="-22" frameWidth="836" frameHeight="616"/>
+	<SubTexture name="dodge LEFT0000" x="4823" y="0" width="805" height="518" frameX="-1" frameY="-66" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0001" x="7206" y="5973" width="386" height="367" frameX="-1" frameY="-217" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0002" x="7498" y="3595" width="386" height="364" frameX="0" frameY="-220" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0003" x="4025" y="0" width="797" height="529" frameX="0" frameY="-55" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0004" x="4973" y="7254" width="383" height="360" frameX="-5" frameY="-224" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0005" x="4973" y="7615" width="383" height="360" frameX="-5" frameY="-224" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0006" x="0" y="2452" width="756" height="584" frameX="-28" frameY="0" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0007" x="5289" y="6531" width="366" height="366" frameX="-27" frameY="-218" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0008" x="5357" y="7285" width="350" height="369" frameX="-45" frameY="-215" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0009" x="5555" y="1491" width="351" height="372" frameX="-50" frameY="-212" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge LEFT0010" x="7519" y="7062" width="351" height="372" frameX="-50" frameY="-212" frameWidth="806" frameHeight="584"/>
+	<SubTexture name="dodge RIGHT0000" x="0" y="3563" width="888" height="408" frameX="-15" frameY="0" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge RIGHT0001" x="4805" y="5379" width="391" height="376" frameX="-15" frameY="-32" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge RIGHT0002" x="4911" y="5756" width="393" height="374" frameX="-15" frameY="-34" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge RIGHT0003" x="0" y="6202" width="894" height="390" frameX="-15" frameY="-18" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge RIGHT0004" x="7282" y="5223" width="397" height="368" frameX="-17" frameY="-40" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge RIGHT0005" x="7680" y="5218" width="397" height="368" frameX="-17" frameY="-40" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge RIGHT0006" x="0" y="6593" width="904" height="381" frameX="-1" frameY="-27" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge RIGHT0007" x="6341" y="4038" width="414" height="381" frameX="-1" frameY="-27" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge RIGHT0008" x="2506" y="5338" width="411" height="379" frameX="0" frameY="-29" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge RIGHT0009" x="0" y="6975" width="897" height="379" frameX="0" frameY="-29" frameWidth="909" frameHeight="408"/>
+	<SubTexture name="dodge UP0000" x="1593" y="0" width="801" height="592" frameX="-1" frameY="-16" frameWidth="831" frameHeight="608"/>
+	<SubTexture name="dodge UP0001" x="7133" y="3991" width="374" height="416" frameX="-2" frameY="-190" frameWidth="831" frameHeight="608"/>
+	<SubTexture name="dodge UP0002" x="6756" y="4015" width="376" height="417" frameX="0" frameY="-189" frameWidth="831" frameHeight="608"/>
+	<SubTexture name="dodge UP0003" x="0" y="0" width="791" height="606" frameX="0" frameY="0" frameWidth="831" frameHeight="608"/>
+	<SubTexture name="dodge UP0004" x="2968" y="5676" width="373" height="413" frameX="-1" frameY="-193" frameWidth="831" frameHeight="608"/>
+	<SubTexture name="dodge UP0005" x="2989" y="6090" width="373" height="413" frameX="-1" frameY="-193" frameWidth="831" frameHeight="608"/>
+	<SubTexture name="dodge UP0006" x="4039" y="4990" width="371" height="404" frameX="-6" frameY="-202" frameWidth="831" frameHeight="608"/>
+	<SubTexture name="dodge UP0007" x="3199" y="0" width="825" height="539" frameX="-6" frameY="-67" frameWidth="831" frameHeight="608"/>
+	<SubTexture name="dodge UP0008" x="6901" y="4834" width="380" height="403" frameX="-6" frameY="-203" frameWidth="831" frameHeight="608"/>
+	<SubTexture name="dodge UP0009" x="7328" y="4408" width="380" height="403" frameX="-6" frameY="-203" frameWidth="831" frameHeight="608"/>
+</TextureAtlas>

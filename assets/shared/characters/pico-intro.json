@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				255,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "return",
+			"indices": [],
+			"name": "shoot and return"
+		},
+		{
+			"offsets": [
+				-47,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cock",
+			"indices": [],
+			"name": "cutscene cock"
+		},
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pissed",
+			"indices": [],
+			"name": "Pico Gets Pissed"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Pico_Intro",
+	"position": [
+		5,
+		300
+	],
+	"noteSplashes": "pico",
+	"strumCovers": "pico",
+	"noteAssets": "pico",
+	"notePath": "torchs_assets",
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-420,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,414 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				204
+			],
+			"anim": "dodgeDOWN",
+			"fps": 23,
+			"name": "dodge DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				172
+			],
+			"anim": "dodgeLEFT",
+			"fps": 23,
+			"name": "dodge LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-3
+			],
+			"anim": "dodgeRIGHT",
+			"fps": 23,
+			"name": "dodge RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				195
+			],
+			"anim": "dodgeUP",
+			"fps": 23,
+			"name": "dodge UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				195
+			],
+			"anim": "dodge",
+			"fps": 23,
+			"name": "dodge UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Compota Hyper idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Compota Hyper NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Compota Hyper NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Compota Hyper NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Compota Hyper NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Compota Hyper NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-22,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Compota Hyper NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-63,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Compota Hyper NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-55,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Compota Hyper NOTE RIGHT MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				6
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Compota Hyper HEY!!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				90
+			],
+			"anim": "hey-sin gorra",
+			"fps": 24,
+			"name": "Compota Hyper SIN GORRA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Compota Hyper hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				1
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Compota Hyper idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				9
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Compota Hyper dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				13,
+				4
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Compota Hyper Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				68
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Compota Hyper Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				527,
+				243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Compota Hyper attack"
+		},
+		{
+			"offsets": [
+				-30,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "Compota Hyper pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-51
+			],
+			"anim": "singDOWN-alt",
+			"fps": 23,
+			"name": "ALT 2 Compota Hyper DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				3
+			],
+			"anim": "singLEFT-alt",
+			"fps": 23,
+			"name": "ALT 2 Compota Hyper LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				26
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 23,
+			"name": "ALT 2 Compota Hyper RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-35
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "Compota Hyper ALT 2 MISS DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				33
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "Compota Hyper ALT 2 MISS RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				1
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "Compota Hyper ALT 2 MISS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				93
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "Compota Hyper ALT 2 MISS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				51
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ALT 2 Compota Hyper UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-52
+			],
+			"anim": "singDOWN-beat",
+			"fps": 23,
+			"name": "Compota Hyper DOWN BEATBOX",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				-1
+			],
+			"anim": "singRIGHT-beat",
+			"fps": 23,
+			"name": "Compota Hyper RIGHT  BEATBOX",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				5
+			],
+			"anim": "singLEFT-beat",
+			"fps": 23,
+			"name": "Compota Hyper LEFT BEATBOX",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				30
+			],
+			"anim": "singUP-beat",
+			"fps": 23,
+			"name": "Compota Hyper UP BEATBOX",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "dad",
+	"no_antialiasing": false,
+	"image": "unlockable characters/ZERO Compota Hyper",
+	"position": [
+		0,
+		350
+	],
+	"strumCovers": "dad",
+	"noteAssets": "daddy_dearest",
+	"healthicon": "compota",
+	"flip_x": true,
+	"healthbar_colors": [
+		65,
+		53,
+		161
+	],
+	"camera_position": [
+		60,
+		20
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

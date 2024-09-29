@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank0.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fg tankhead far right instancia 10000" x="10" y="10" width="394" height="552" frameX="-2" frameY="-16" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10001" x="10" y="10" width="394" height="552" frameX="-2" frameY="-16" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10002" x="414" y="10" width="387" height="557" frameX="-3" frameY="-12" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10003" x="414" y="10" width="387" height="557" frameX="-3" frameY="-12" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10004" x="811" y="10" width="387" height="566" frameX="-2" frameY="-3" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10005" x="811" y="10" width="387" height="566" frameX="-2" frameY="-3" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10006" x="1208" y="10" width="387" height="569" frameX="-1" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10007" x="1208" y="10" width="387" height="569" frameX="-1" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10008" x="1605" y="10" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10009" x="1605" y="10" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10010" x="1605" y="10" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10011" x="1605" y="10" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10012" x="1605" y="10" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+	<SubTexture name="fg tankhead far right instancia 10013" x="1605" y="10" width="387" height="569" frameX="0" frameY="0" frameWidth="396" frameHeight="569"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf remake.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="happy_0" x="0" y="0" width="128" height="128"/>
+	<SubTexture name="happy_1" x="0" y="128" width="128" height="128"/>
+	<SubTexture name="happy_2" x="0" y="256" width="128" height="128"/>
+	<SubTexture name="idle_0" x="0" y="384" width="128" height="128"/>
+	<SubTexture name="idle_1" x="128" y="0" width="128" height="128"/>
+	<SubTexture name="idle_2" x="256" y="0" width="128" height="128"/>
+	<SubTexture name="idle_3" x="384" y="0" width="128" height="128"/>
+	<SubTexture name="idle_4" x="128" y="128" width="128" height="128"/>
+	<SubTexture name="idle_5" x="128" y="256" width="128" height="128"/>
+	<SubTexture name="idle_6" x="128" y="384" width="128" height="128"/>
+	<SubTexture name="idle_7" x="256" y="128" width="128" height="128"/>
+	<SubTexture name="idle_8" x="384" y="128" width="128" height="128"/>
+	<SubTexture name="idle_9" x="128" y="128" width="128" height="128"/>
+	<SubTexture name="left dance_0" x="0" y="384" width="128" height="128"/>
+	<SubTexture name="left dance_1" x="128" y="0" width="128" height="128"/>
+	<SubTexture name="left dance_2" x="256" y="0" width="128" height="128"/>
+	<SubTexture name="left dance_3" x="384" y="0" width="128" height="128"/>
+	<SubTexture name="left dance_4" x="128" y="128" width="128" height="128"/>
+	<SubTexture name="right dance_0" x="128" y="256" width="128" height="128"/>
+	<SubTexture name="right dance_1" x="128" y="384" width="128" height="128"/>
+	<SubTexture name="right dance_2" x="256" y="128" width="128" height="128"/>
+	<SubTexture name="right dance_3" x="384" y="128" width="128" height="128"/>
+	<SubTexture name="right dance_4" x="128" y="128" width="128" height="128"/>
+	<SubTexture name="sad_0" x="256" y="256" width="128" height="128"/>
+	<SubTexture name="sad_1" x="256" y="384" width="128" height="128"/>
+	<SubTexture name="sad_2" x="384" y="256" width="128" height="128"/>
+</TextureAtlas>

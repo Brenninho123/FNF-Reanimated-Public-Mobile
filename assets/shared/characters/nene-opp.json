@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-118
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-51
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				-21
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				0
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				3
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "giggle",
+			"indices": [],
+			"name": "giggle"
+		},
+		{
+			"offsets": [
+				113,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "preattack",
+			"indices": [],
+			"name": "preattack"
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "normal",
+	"no_antialiasing": false,
+	"image": "unlockable characters/NENE",
+	"position": [
+		-250,
+		190
+	],
+	"strumCovers": "normal",
+	"noteAssets": "normal",
+	"healthicon": "nene",
+	"flip_x": false,
+	"healthbar_colors": [
+		250,
+		105,
+		146
+	],
+	"camera_position": [
+		-740,
+		-30
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

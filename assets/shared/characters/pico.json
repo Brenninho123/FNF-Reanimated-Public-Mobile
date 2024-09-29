@@ -1,0 +1,214 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-11
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				18
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				-81
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				58
+			],
+			"anim": "singDOWN-shoot",
+			"fps": 24,
+			"name": "shoot0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Pico Idle Dance0"
+		},
+		{
+			"offsets": [
+				-83,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				70,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"offsets": [
+				185,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"offsets": [
+				57,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"offsets": [
+				-42,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reload",
+			"indices": [],
+			"name": "reload"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				58
+			],
+			"anim": "singRIGHT-shoot",
+			"fps": 24,
+			"name": "shoot0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-shoot",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "shoot1"
+		},
+		{
+			"offsets": [
+				-20,
+				205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-shoot",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "shoot1"
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "pico",
+	"no_antialiasing": false,
+	"image": "characters/Pico_FNF_assetss",
+	"position": [
+		0,
+		300
+	],
+	"strumCovers": "pico",
+	"noteAssets": "pico",
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		133,
+		230,
+		81
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

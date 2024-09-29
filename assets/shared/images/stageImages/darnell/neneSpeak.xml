@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neneSpeak.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speaker nene0000" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0001" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0002" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0003" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0004" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0005" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0006" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0007" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0008" x="832" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0009" x="10" y="377" width="815" height="359"/>
+	<SubTexture name="speaker nene0010" x="10" y="377" width="815" height="359"/>
+	<SubTexture name="speaker nene0011" x="835" y="377" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0012" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0013" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0014" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0015" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0016" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0017" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0018" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0019" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0020" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0021" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0022" x="832" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0023" x="10" y="377" width="815" height="359"/>
+	<SubTexture name="speaker nene0024" x="10" y="377" width="815" height="359"/>
+	<SubTexture name="speaker nene0025" x="835" y="377" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0026" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0027" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0028" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+	<SubTexture name="speaker nene0029" x="10" y="10" width="812" height="357" frameX="-3" frameY="-2" frameWidth="815" frameHeight="359"/>
+</TextureAtlas>

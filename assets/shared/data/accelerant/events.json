@@ -1,0 +1,121 @@
+{
+	"song": {
+		"events": [
+			[
+				61280.4878048781,
+				[
+					[
+						"Change Character",
+						"gf",
+						"tricky"
+					]
+				]
+			],
+			[
+				61463.4146341464,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gftik"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				73120.4268292683,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"hank"
+					]
+				]
+			],
+			[
+				78985.5182926829,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gftik"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				84878.0487804877,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"hank"
+					]
+				]
+			],
+			[
+				85746.9512195121,
+				[
+					[
+						"Play Sound",
+						"Screamfade",
+						""
+					]
+				]
+			],
+			[
+				86341.4634146341,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				121463.414634146,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					],
+					[
+						"Screen Shake",
+						"1.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				122926.829268292,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

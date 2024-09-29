@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				37666.6666666667,
+				[
+					[
+						"Change Rain Velocity",
+						"0.8",
+						""
+					],
+					[
+						"Change Character",
+						"BF",
+						"pico-blazin-idle"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"darnell-blazin-idle"
+					]
+				]
+			]
+		]
+	}
+}

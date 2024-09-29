@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TANKMAN_BG_ASSETS.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fg tankhead 50000" x="10" y="10" width="623" height="378" frameX="0" frameY="-7" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50001" x="10" y="10" width="623" height="378" frameX="0" frameY="-7" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50002" x="643" y="10" width="618" height="381" frameX="-3" frameY="-5" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50003" x="643" y="10" width="618" height="381" frameX="-3" frameY="-5" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50004" x="1271" y="10" width="607" height="385" frameX="-8" frameY="-1" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50005" x="1271" y="10" width="607" height="385" frameX="-8" frameY="-1" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50006" x="10" y="405" width="601" height="386" frameX="-11" frameY="0" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50007" x="10" y="405" width="601" height="386" frameX="-11" frameY="0" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50008" x="10" y="405" width="601" height="386" frameX="-11" frameY="0" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50009" x="10" y="405" width="601" height="386" frameX="-11" frameY="0" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50010" x="10" y="405" width="601" height="386" frameX="-11" frameY="0" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50011" x="10" y="405" width="601" height="386" frameX="-11" frameY="0" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50012" x="10" y="405" width="601" height="386" frameX="-11" frameY="0" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50013" x="10" y="405" width="601" height="386" frameX="-11" frameY="0" frameWidth="623" frameHeight="386"/>
+	<SubTexture name="fg tankhead 50014" x="10" y="405" width="601" height="386" frameX="-11" frameY="0" frameWidth="623" frameHeight="386"/>
+</TextureAtlas>

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Fighting ALL ANIMS",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "pico",
+	"no_antialiasing": false,
+	"image": "characters/picoBlazin",
+	"position": [
+		-290,
+		680
+	],
+	"strumCovers": "pico",
+	"noteAssets": "pico",
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		133,
+		230,
+		81
+	],
+	"camera_position": [
+		0,
+		-500
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 999,
+	"scale": 1.75,
+	"_editor_isPlayer": true
+}

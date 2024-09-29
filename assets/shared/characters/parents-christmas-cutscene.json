@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"offsets": [119, -403],
+			"indices": [],
+			"fps": 24,
+			"anim": "PlayCutscene",
+			"loop": false,
+			"name": "parents whole scene"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/parents_shoot_assets",
+	"position": [-500, 0],
+	"healthicon": "parents",
+	"flip_x": false,
+	"healthbar_colors": [196, 94, 174],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

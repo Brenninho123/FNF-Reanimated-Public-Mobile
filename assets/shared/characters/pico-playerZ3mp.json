@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				-44
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"offsets": [
+				120,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-44
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "mizz duwn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				37
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "mizz up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				53
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "mizz righ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-24
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "mizz lef",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				41
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				779,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoot"
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "normal",
+	"no_antialiasing": false,
+	"image": "unlockable characters/pico",
+	"position": [
+		0,
+		300
+	],
+	"noteAssets": "notas_chidas",
+	"healthicon": "pico-z3mp",
+	"flip_x": true,
+	"healthbar_colors": [
+		181,
+		216,
+		75
+	],
+	"camera_position": [
+		220,
+		0
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

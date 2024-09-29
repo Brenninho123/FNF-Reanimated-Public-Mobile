@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="foreground man 30000" x="10" y="10" width="405" height="426" frameX="-3" frameY="-19" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30001" x="10" y="10" width="405" height="426" frameX="-3" frameY="-19" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30002" x="425" y="10" width="399" height="434" frameX="-5" frameY="-13" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30003" x="425" y="10" width="399" height="434" frameX="-5" frameY="-13" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30004" x="834" y="10" width="399" height="443" frameX="-2" frameY="-4" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30005" x="834" y="10" width="399" height="443" frameX="-2" frameY="-4" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30006" x="1243" y="10" width="399" height="446" frameX="-1" frameY="-1" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30007" x="1243" y="10" width="399" height="446" frameX="-1" frameY="-1" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30008" x="10" y="466" width="399" height="447" frameX="0" frameY="0" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30009" x="10" y="466" width="399" height="447" frameX="0" frameY="0" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30010" x="10" y="466" width="399" height="447" frameX="0" frameY="0" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30011" x="10" y="466" width="399" height="447" frameX="0" frameY="0" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30012" x="10" y="466" width="399" height="447" frameX="0" frameY="0" frameWidth="408" frameHeight="447"/>
+	<SubTexture name="foreground man 30013" x="10" y="466" width="399" height="447" frameX="0" frameY="0" frameWidth="408" frameHeight="447"/>
+</TextureAtlas>

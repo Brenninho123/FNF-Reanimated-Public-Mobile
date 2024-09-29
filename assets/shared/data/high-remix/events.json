@@ -1,0 +1,334 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "Limonoche",
+		"player1": "bfbv - copia",
+		"player2": "mombv - copia",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				1920,
+				[
+					[
+						"Change Note Skin",
+						"NOTE_assetsfv, bf",
+						""
+					]
+				]
+			],
+			[
+				15360,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					],
+					[
+						"Hide Hud",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				30720,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				92160,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					],
+					[
+						"Camera Flash",
+						"0xffffff",
+						""
+					]
+				]
+			],
+			[
+				107520,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Camera Flash",
+						"0xffffff",
+						""
+					]
+				]
+			],
+			[
+				122880,
+				[
+					[
+						"badapplelol",
+						"a",
+						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Hide Hud",
+						"2",
+						""
+					],
+					[
+						"Camera Flash",
+						"0xffffff",
+						""
+					]
+				]
+			],
+			[
+				138240,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				142080,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				145920,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				149760,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"badapplelol",
+						"b",
+						""
+					],
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				161280,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				168960,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				169440,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				182880,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				183480,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				183960,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					]
+				]
+			],
+			[
+				184320,
+				[
+					[
+						"Camera Flash",
+						"0xffffff",
+						"1"
+					],
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				199680,
+				[
+					[
+						"Cinematics",
+						"2",
+						""
+					],
+					[
+						"Hide Hud",
+						"1",
+						""
+					],
+					[
+						"Camera Flash",
+						"0xffffff",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfbv",
+		"bpm": 125,
+		"arrowSkin": "NOTE_assetsfvmom",
+		"needsVoices": true,
+		"song": "High"
+	}
+}

@@ -1,0 +1,304 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BIDU HEY!!"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BIDU idle dance0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BIDU NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BIDU NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				56
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BIDU NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BIDU NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-47,
+				18
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BIDU idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				21
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BIDU NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-22
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BIDU NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BIDU NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				47
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BIDU NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-41
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BIDU NOTE DOWN ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BIDU NOTE RIGHT ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				77
+			],
+			"anim": "singUPlol",
+			"fps": 24,
+			"name": "BIDU NOTE UP COOL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				8
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "BIDU NOTE LEFT DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				270
+			],
+			"anim": "dodgeUP",
+			"fps": 24,
+			"name": "BIDU NOTE UP DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				0
+			],
+			"anim": "dodgeDOWN",
+			"fps": 24,
+			"name": "BIDU NOTE DOWN DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				7
+			],
+			"anim": "dodgeLEFT",
+			"fps": 24,
+			"name": "BIDU NOTE LEFT DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-16
+			],
+			"anim": "dodgeRIGHT",
+			"fps": 24,
+			"name": "BIDU NOTE RIGHT DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-25
+			],
+			"anim": "singDOWN-beat",
+			"fps": 24,
+			"name": "BIDU BEATBOX DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				13
+			],
+			"anim": "singRIGHT-beat",
+			"fps": 24,
+			"name": "BIDU BEATBOX RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-beat",
+			"indices": [],
+			"name": "BIDU BEATBOX UP"
+		},
+		{
+			"offsets": [
+				-19,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-beat",
+			"indices": [],
+			"name": "BIDU BEATBOX UP"
+		},
+		{
+			"offsets": [
+				-31,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BIDU NOTE UP ALT"
+		},
+		{
+			"offsets": [
+				100,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "BIDU NOTE LEFT ALT"
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "arrow",
+	"no_antialiasing": false,
+	"image": "unlockable characters/BIDU",
+	"position": [
+		0,
+		350
+	],
+	"strumCovers": "bidu",
+	"noteAssets": "bidu",
+	"healthicon": "bidu",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		255,
+		33
+	],
+	"camera_position": [
+		130,
+		-40
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

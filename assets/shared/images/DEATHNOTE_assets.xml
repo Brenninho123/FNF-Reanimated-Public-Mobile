@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DEATHNOTE_assets.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="10" y="10" width="156" height="181"/>
+	<SubTexture name="green0000" x="176" y="10" width="156" height="181"/>
+	<SubTexture name="purple0000" x="10" y="201" width="171" height="157"/>
+	<SubTexture name="red0000" x="191" y="201" width="171" height="157"/>
+</TextureAtlas>

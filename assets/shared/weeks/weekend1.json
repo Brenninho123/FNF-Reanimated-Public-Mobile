@@ -1,0 +1,59 @@
+{
+	"storyName": "are you here darnell?",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "phillystreets",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Darnell",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lit Up",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"2HOT",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blazin",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"darnell",
+		"pico-player",
+		"nene"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekend1"
+}

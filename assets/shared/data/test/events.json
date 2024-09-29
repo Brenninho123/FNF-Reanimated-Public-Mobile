@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Enemy Splashes",
+						"true",
+						"true"
+					],
+					[
+						"Set Health Drain",
+						"0.023",
+						""
+					]
+				]
+			]
+		]
+	}
+}

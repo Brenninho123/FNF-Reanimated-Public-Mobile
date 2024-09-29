@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-49,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"noteSplashes": "robin",
+	"no_antialiasing": false,
+	"image": "characters/Robin",
+	"position": [
+		-40,
+		75
+	],
+	"strumCovers": "robin",
+	"noteAssets": "robin",
+	"healthicon": "robin",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		208,
+		1
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"notePath": "torchs_assets",
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
