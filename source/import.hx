@@ -5,14 +5,21 @@ import backend.Discord;
 #end
 
 //Psych
-#if LUA_ALLOWED
-import llua.*;
-import llua.Lua;
-#end
-
 #if ACHIEVEMENTS_ALLOWED
 import backend.Achievements;
 #end
+#if VIDEOS_ALLOWED
+import backend.VideoManager;
+import backend.VideoSpriteManager;
+#end
+
+//Mobile Controls
+import mobile.objects.MobileControls;
+import mobile.flixel.FlxHitbox;
+import mobile.flixel.FlxVirtualPad;
+import mobile.flixel.input.FlxMobileInputID;
+import mobile.backend.Data;
+import mobile.backend.SUtil;
 
 #if sys
 import sys.*;
@@ -48,10 +55,10 @@ import flixel.sound.FlxSound;
 import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.FlxCamera;
+import flixel.util.FlxDestroyUtil;
 import flixel.math.FlxMath;
 import flixel.math.FlxPoint;
 import flixel.util.FlxColor;
-import flixel.util.FlxGradient;
 import flixel.util.FlxTimer;
 import flixel.text.FlxText;
 import flixel.tweens.FlxEase;
