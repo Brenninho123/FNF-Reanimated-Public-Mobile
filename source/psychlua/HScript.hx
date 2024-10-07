@@ -4,7 +4,6 @@ import flixel.FlxBasic;
 import objects.Character;
 import psychlua.LuaUtils;
 import psychlua.CustomSubstate;
-import states.stages.objects.ABot;
 
 #if LUA_ALLOWED
 import psychlua.FunkinLua;
@@ -97,12 +96,12 @@ class HScript extends SScript
 		set('Countdown', backend.BaseStage.Countdown);
 		set('PlayState', PlayState);
 		set('Paths', Paths);
+		set('SUtil', SUtil);
 		set('Conductor', Conductor);
 		set('ClientPrefs', ClientPrefs);
 		#if ACHIEVEMENTS_ALLOWED
 		set('Achievements', Achievements);
 		#end
-		set('Abot', states.stages.objects.ABot);
 		set('Character', Character);
 		set('Alphabet', Alphabet);
 		set('Note', objects.Note);
@@ -112,6 +111,10 @@ class HScript extends SScript
 		#end
 		set('ShaderFilter', openfl.filters.ShaderFilter);
 		set('StringTools', StringTools);
+		#if VIDEOS_ALLOWED
+		set('VideoSpriteManager', backend.VideoSpriteManager);
+		set('VideoManager', backend.VideoManager);
+		#end
 		#if flxanimate
 		set('FlxAnimate', FlxAnimate);
 		#end
@@ -292,18 +295,60 @@ class HScript extends SScript
 		set('Function_StopLua', LuaUtils.Function_StopLua); //doesnt do much cuz HScript has a lower priority than Lua
 		set('Function_StopHScript', LuaUtils.Function_StopHScript);
 		set('Function_StopAll', LuaUtils.Function_StopAll);
-		
-		set('add', FlxG.state.add);
-		set('insert', FlxG.state.insert);
-		set('remove', FlxG.state.remove);
 
-		if(PlayState.instance == FlxG.state)
-		{
-			set('addBehindGF', PlayState.instance.addBehindGF);
-			set('addBehindDad', PlayState.instance.addBehindDad);
-			set('addBehindBF', PlayState.instance.addBehindBF);
-			setSpecialObject(PlayState.instance, false, PlayState.instance.instancesExclude);
-		}
+		set('add', FlxG.state.add);
+                set('insert', FlxG.state.insert);
+                set('remove', FlxG.state.remove);
+
+                if(PlayState.instance == FlxG.state)
+                {
+                        set('addBehindGF', PlayState.instance.addBehindGF);
+                        set('addBehindDad', PlayState.instance.addBehindDad);
+                        set('addBehindBF', PlayState.instance.addBehindBF);
+                        setSpecialObject(PlayState.instance, false, PlayState.instance.instancesExclude);
+                }
+                #if LUA_ALLOWED
+		set("addVirtualPad", (DPadMode:String, ActionMode:String) -> {
+			PlayState.instance.makeLuaVirtualPad(DPadMode, ActionMode);
+			PlayState.instance.addLuaVirtualPad();
+		  });
+  
+		set("removeVirtualPad", () -> {
+			PlayState.instance.removeLuaVirtualPad();
+		});
+  
+		set("addVirtualPadCamera", () -> {
+			if(PlayState.instance.luaVirtualPad == null){
+				FunkinLua.luaTrace('addVirtualPadCamera: VPAD does not exist.');
+				return;
+			}
+			PlayState.instance.addLuaVirtualPadCamera();
+		});
+  
+		set("virtualPadJustPressed", function(button:Dynamic):Bool {
+			if(PlayState.instance.luaVirtualPad == null){
+			  //FunkinLua.luaTrace('virtualPadJustPressed: VPAD does not exist.');
+			  return false;
+			}
+		  return PlayState.instance.luaVirtualPadJustPressed(button);
+		});
+  
+		set("virtualPadPressed", function(button:Dynamic):Bool {
+			if(PlayState.instance.luaVirtualPad == null){
+				//FunkinLua.luaTrace('virtualPadPressed: VPAD does not exist.');
+				return false;
+			}
+			return PlayState.instance.luaVirtualPadPressed(button);
+		});
+  
+		set("virtualPadJustReleased", function(button:Dynamic):Bool {
+			if(PlayState.instance.luaVirtualPad == null){
+				//FunkinLua.luaTrace('virtualPadJustReleased: VPAD does not exist.');
+				return false;
+			}
+			return PlayState.instance.luaVirtualPadJustReleased(button);
+		});
+                #end
 
 		if(varsToBring != null) {
 			for (key in Reflect.fields(varsToBring)) {

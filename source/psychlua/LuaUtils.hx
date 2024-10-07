@@ -160,10 +160,7 @@ class LuaUtils
 				{
 					var errorTitle = 'Mod name: ' + Mods.currentModDirectory;
 					var errorMsg = 'An error occurred: $e';
-					#if windows
-					lime.app.Application.current.window.alert(errorMsg, errorTitle);
-					#end
-					trace('$errorTitle - $errorMsg');
+					SUtil.showPopUp(errorMsg, errorTitle);
 				}
 			}
 		}
@@ -348,8 +345,8 @@ class LuaUtils
 		}
 
 		var target:FlxText = PlayState.instance.modchartTexts.get(tag);
-		target.kill();
 		PlayState.instance.remove(target, true);
+		target.kill();
 		target.destroy();
 		PlayState.instance.modchartTexts.remove(tag);
 		#end
@@ -362,8 +359,8 @@ class LuaUtils
 		}
 
 		var target:ModchartSprite = PlayState.instance.modchartSprites.get(tag);
-		target.kill();
 		PlayState.instance.remove(target, true);
+		target.kill();
 		target.destroy();
 		PlayState.instance.modchartSprites.remove(tag);
 		#end
@@ -406,10 +403,26 @@ class LuaUtils
 		return 'linux';
 		#elseif mac
 		return 'mac';
-		#elseif html5
+		#elseif hl
+		return 'hashlink';
+		#elseif (html5 || emscripten || nodejs || winjs || electron)
 		return 'browser';
 		#elseif android
 		return 'android';
+		#elseif webos
+		return 'webos';
+		#elseif tvos
+		return 'tvos';
+		#elseif watchos
+		return 'watchos';
+		#elseif air
+		return 'air';
+		#elseif flash
+		return 'flash';
+		#elseif (ios || iphonesim)
+		return 'ios';
+		#elseif neko
+		return 'neko';
 		#elseif switch
 		return 'switch';
 		#else
