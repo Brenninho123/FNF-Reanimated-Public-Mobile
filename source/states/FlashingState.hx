@@ -18,19 +18,19 @@ class FlashingState extends MusicBeatState
 		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		add(bg);
 
-		warnText = new FlxText(0, 0, FlxG.width,
-			"Hey, watch out!\n
-			This mod is not meant to offend or harm the original \n
-			creators of all the assets or similar\n
-			This mod is a re-imagining of our view towards the base game\n
-			We hope you like our project\n
-			Have fun\n
-			Sincerely\n
-			FNF Reanimated Team",
-			100);
-		warnText.setFormat("PhantomMuff.ttf", 22, FlxColor.WHITE, CENTER);
+		var guh:String = "Hey, watch out!\n
+		This Mod contains some flashing lights!\n
+		Press A/ENTER to disable them now or go to Options Menu.\n
+		Press B/ESCAPE to ignore this message.\n
+		You've been warned!";
+
+		controls.isInSubstate = false; // qhar I hate it
+		warnText = new FlxText(0, 0, FlxG.width, guh, 32);
+		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
 		add(warnText);
+
+		addVirtualPad(NONE, A_B);
 	}
 
 	override function update(elapsed:Float)

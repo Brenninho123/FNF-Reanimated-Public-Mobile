@@ -12,9 +12,6 @@ import substates.ResetScoreSubState;
 
 import flixel.math.FlxMath;
 
-import torchsfunctions.functions.ArrayTools;
-import torchsthings.states.CharacterMenu;
-
 class FreeplayState extends MusicBeatState
 {
 	var songs:Array<SongMetadata> = [];
@@ -51,11 +48,6 @@ class FreeplayState extends MusicBeatState
 
 	var player:MusicPlayer;
 
-	// Torch's Char Menu Vars
-	public var choosingChar:Bool = false;
-	var charText:FlxText;
-	var yesno:FlxText;
-
 	override function create()
 	{
 		//Paths.clearStoredMemory();
@@ -67,8 +59,7 @@ class FreeplayState extends MusicBeatState
 
 		#if DISCORD_ALLOWED
 		// Updating Discord Rich Presence
-		//DiscordClient.changePresence("In the Menus", null);
-		DiscordClient.changePresence("Choosing a Song", null);
+		DiscordClient.changePresence("In the Menus", null);
 		#end
 
 		for (i in 0...WeekData.weeksList.length) {
@@ -97,10 +88,8 @@ class FreeplayState extends MusicBeatState
 		}
 		Mods.loadTopMod();
 
-		bg = new FlxSprite().loadGraphic(Paths.image('menuBG/menuDesat'));
+		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		bg.antialiasing = ClientPrefs.data.antialiasing;
-		bg.setGraphicSize(Std.int(bg.width * 0.68));
-		bg.updateHitbox();
 		add(bg);
 		bg.screenCenter();
 
@@ -109,7 +98,7 @@ class FreeplayState extends MusicBeatState
 
 		for (i in 0...songs.length)
 		{
-			var songText:Alphabet = new Alphabet(290, 320, songs[i].songName, true);
+			var songText:Alphabet = new Alphabet(90, 320, songs[i].songName, true);
 			songText.targetY = i;
 			grpSongs.add(songText);
 
@@ -138,8 +127,7 @@ class FreeplayState extends MusicBeatState
 		scoreText = new FlxText(FlxG.width * 0.7, 5, 0, "", 32);
 		scoreText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, RIGHT);
 
-		// OG height was 66 - Torch
-		scoreBG = new FlxSprite(scoreText.x - 6, 0).makeGraphic(1, 126, 0xFF000000);
+		scoreBG = new FlxSprite(scoreText.x - 6, 0).makeGraphic(1, 66, 0xFF000000);
 		scoreBG.alpha = 0.6;
 		add(scoreBG);
 
@@ -147,15 +135,8 @@ class FreeplayState extends MusicBeatState
 		diffText.font = scoreText.font;
 		add(diffText);
 
-		charText = new FlxText(scoreText.x, diffText.y + 26, 0, 'Character Menu Enabled? (Tab)', 24);
-		charText.font = diffText.font;
-		add(charText);
-
-		yesno = new FlxText(charText.x, charText.y + 26, 0, '', 24);
-		yesno.font = charText.font;
-		add(yesno);
-
 		add(scoreText);
+
 
 		missingTextBG = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		missingTextBG.alpha = 0.6;
@@ -179,7 +160,13 @@ class FreeplayState extends MusicBeatState
 		bottomBG.alpha = 0.6;
 		add(bottomBG);
 
-		var leText:String = "Press SPACE to listen to the Song / Press CTRL to open the Gameplay Changers Menu / Press RESET to Reset your Score and Accuracy.";
+                var leText:String;
+
+                if (controls.mobileC) {
+		leText = "Press X to listen to the Song / Press C to open the Gameplay Changers Menu / Press Y to Reset your Score and Accuracy.";
+                } else {
+		leText = "Press SPACE to listen to the Song / Press CTRL to open the Gameplay Changers Menu / Press RESET to Reset your Score and Accuracy.";
+                }
 		bottomString = leText;
 		var size:Int = 16;
 		bottomText = new FlxText(bottomBG.x, bottomBG.y + 4, FlxG.width, leText, size);
@@ -191,8 +178,9 @@ class FreeplayState extends MusicBeatState
 		add(player);
 		
 		changeSelection();
-		enableCharMenu();
 		updateTexts();
+
+		addVirtualPad(LEFT_FULL, A_B_C_X_Y_Z);
 		super.create();
 	}
 
@@ -200,6 +188,8 @@ class FreeplayState extends MusicBeatState
 		changeSelection(0, false);
 		persistentUpdate = true;
 		super.closeSubState();
+		removeVirtualPad();
+		addVirtualPad(LEFT_FULL, A_B_C_X_Y_Z);
 	}
 
 	public function addSong(songName:String, weekNum:Int, songCharacter:String, color:Int)
@@ -239,7 +229,7 @@ class FreeplayState extends MusicBeatState
 		}
 
 		var shiftMult:Int = 1;
-		if(FlxG.keys.pressed.SHIFT) shiftMult = 3;
+        if((FlxG.keys.pressed.SHIFT || virtualPad.buttonZ.pressed) && !player.playingMusic) shiftMult = 3;
 
 		if (!player.playingMusic)
 		{
@@ -300,7 +290,7 @@ class FreeplayState extends MusicBeatState
 			}
 		}
 
-		if (controls.BACK)
+        if (controls.BACK)
 		{
 			if (player.playingMusic)
 			{
@@ -326,17 +316,13 @@ class FreeplayState extends MusicBeatState
 			}
 		}
 
-		if (FlxG.keys.justPressed.TAB) 
-		{
-			enableCharMenu(true);
-		}
-
-		if(FlxG.keys.justPressed.CONTROL && !player.playingMusic)
+        if((FlxG.keys.justPressed.CONTROL || virtualPad.buttonC.justPressed) && !player.playingMusic)
 		{
 			persistentUpdate = false;
 			openSubState(new GameplayChangersSubstate());
+			removeVirtualPad();
 		}
-		else if(FlxG.keys.justPressed.SPACE)
+        else if(FlxG.keys.justPressed.SPACE || virtualPad.buttonX.justPressed)
 		{
 			if(instPlaying != curSelected && !player.playingMusic)
 			{
@@ -420,66 +406,20 @@ class FreeplayState extends MusicBeatState
 				super.update(elapsed);
 				return;
 			}
-			
-			/*
 			LoadingState.loadAndSwitchState(new PlayState());
-				
+
 			FlxG.sound.music.volume = 0;
 					
 			destroyFreeplayVocals();
-			*/
-
-			// This is a easy-ish way I have set up to load into my Char Menu - Torch
-			if (choosingChar && !ArrayTools.checkBlacklist(PlayState.SONG.song.toLowerCase(), CharacterMenu.blacklistedSongs)) {
-				CharacterMenu.fromFreeplay = true;
-				CharacterMenu.playstateDiff = curDifficulty;
-
-				// Check Blacklist can be used as a Whitelist instead if checking for true instead of false
-				CharacterMenu.pixelSong = ArrayTools.checkBlacklist(PlayState.SONG.song.toLowerCase(), CharacterMenu.pixelSongs);
-
-				var notChosen:Bool = true;
-				for (array in CharacterMenu.specificCharMenus) {
-					if (array[0] == PlayState.SONG.song.toLowerCase()) {
-						notChosen = false;
-						switch (array[1]) {
-							case 0:
-								LoadingState.loadAndSwitchState(new CharacterMenu(['bf', 'gf', 'enemy']));
-							case 1:
-								LoadingState.loadAndSwitchState(new CharacterMenu(['bf', 'gf']));
-							case 2:
-								LoadingState.loadAndSwitchState(new CharacterMenu(['bf', 'enemy']));
-							case 3:
-								LoadingState.loadAndSwitchState(new CharacterMenu(['gf', 'enemy']));
-							case 4:
-								LoadingState.loadAndSwitchState(new CharacterMenu(['bf']));
-							case 5:
-								LoadingState.loadAndSwitchState(new CharacterMenu(['gf']));
-							case 6:
-								LoadingState.loadAndSwitchState(new CharacterMenu(['enemy']));
-						}
-					}
-				}
-				if (notChosen == true) {
-					LoadingState.loadAndSwitchState(new CharacterMenu(null));
-				}
-			} else if (choosingChar) {
-				FlxG.sound.play(Paths.sound('cancelMenu'));
-			} else {
-				CharacterMenu.usedCharMenu = false; // Putting this here to garuntee that it is reset
-				LoadingState.loadAndSwitchState(new PlayState());
-				
-				FlxG.sound.music.volume = 0;
-					
-				destroyFreeplayVocals();
-			}
 			#if (MODS_ALLOWED && DISCORD_ALLOWED)
 			DiscordClient.loadModRPC();
 			#end
 		}
-		else if(controls.RESET && !player.playingMusic)
+        else if((controls.RESET || virtualPad.buttonY.justPressed) && !player.playingMusic)
 		{
 			persistentUpdate = false;
 			openSubState(new ResetScoreSubState(songs[curSelected].songName, curDifficulty, songs[curSelected].songCharacter));
+			removeVirtualPad();
 			FlxG.sound.play(Paths.sound('scrollMenu'));
 		}
 
@@ -559,11 +499,9 @@ class FreeplayState extends MusicBeatState
 		for (i in 0...iconArray.length)
 		{
 			iconArray[i].alpha = 0.6;
-			iconArray[i].animation.curAnim.curFrame= 0;
 		}
 
 		iconArray[curSelected].alpha = 1;
-		iconArray[curSelected].animation.curAnim.curFrame= 2;
 
 		for (item in grpSongs.members)
 		{
@@ -603,10 +541,6 @@ class FreeplayState extends MusicBeatState
 		scoreBG.x = FlxG.width - (scoreBG.scale.x / 2);
 		diffText.x = Std.int(scoreBG.x + (scoreBG.width / 2));
 		diffText.x -= diffText.width / 2;
-		charText.x = Std.int(scoreBG.x + (scoreBG.width / 2));
-		charText.x -= charText.width / 2;
-		yesno.x = Std.int(scoreBG.x + (scoreBG.width / 2));
-		yesno.x -= yesno.width / 2;
 	}
 
 	var _drawDistance:Int = 4;
@@ -644,27 +578,6 @@ class FreeplayState extends MusicBeatState
 		if (!FlxG.sound.music.playing)
 			FlxG.sound.playMusic(Paths.music('freakyMenu'));
 	}	
-
-	function enableCharMenu(a:Bool = false)
-	{	
-		if (FlxG.save.data.charMenuEnabled != null && !a) {
-			choosingChar = FlxG.save.data.charMenuEnabled;
-		} else if (a) {
-			choosingChar = !choosingChar;
-		}
-
-		FlxG.save.data.charMenuEnabled = choosingChar;
-
-		var huh:String = '';
-
-		if (choosingChar)
-			huh = "Yes";
-		else
-			huh = "No";
-
-		yesno.text = '< '+huh+' >';
-		positionHighscore();
-	}
 }
 
 class SongMetadata
