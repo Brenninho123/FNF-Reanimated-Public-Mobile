@@ -1,7 +1,7 @@
 package backend;
 
 import haxe.Json;
-import lime.utils.Assets;
+import openfl.utils.Assets;
 
 import backend.Section;
 

@@ -4,12 +4,11 @@ import Sys.sleep;
 import lime.app.Application;
 import hxdiscord_rpc.Discord;
 import hxdiscord_rpc.Types;
-import flixel.addons.ui.U as UtilFunctions;
 
 class DiscordClient
 {
 	public static var isInitialized:Bool = false;
-	private static final _defaultID:String = "1259376594015748156";
+	private static final _defaultID:String = "863222024192262205";
 	public static var clientID(default, set):String = _defaultID;
 	private static var presence:DiscordRichPresence = DiscordRichPresence.create();
 
@@ -91,7 +90,6 @@ class DiscordClient
 		presence.largeImageKey = 'icon';
 		presence.largeImageText = "Engine Version: " + states.MainMenuState.psychEngineVersion;
 		presence.smallImageKey = smallImageKey;
-		presence.smallImageText = UtilFunctions.FU(smallImageKey);
 		// Obtained times are in milliseconds so they are divided so Discord can use it
 		presence.startTimestamp = Std.int(startTimestamp / 1000);
 		presence.endTimestamp = Std.int(endTimestamp / 1000);
@@ -120,7 +118,7 @@ class DiscordClient
 		return newID;
 	}
 
-	#if MODS_ALLOWED
+	#if (MODS_ALLOWED && desktop && !hl)
 	public static function loadModRPC()
 	{
 		var pack:Dynamic = Mods.getPack();
@@ -133,12 +131,12 @@ class DiscordClient
 	#end
 
 	#if LUA_ALLOWED
-	public static function addLuaCallbacks(lua:State) {
-		Lua_helper.add_callback(lua, "changeDiscordPresence", function(details:String, state:Null<String>, ?smallImageKey:String, ?hasStartTimestamp:Bool, ?endTimestamp:Float) {
+	public static function addLuaCallbacks(funk:psychlua.FunkinLua) {
+		funk.set("changeDiscordPresence", function(details:String, state:Null<String>, ?smallImageKey:String, ?hasStartTimestamp:Bool, ?endTimestamp:Float) {
 			changePresence(details, state, smallImageKey, hasStartTimestamp, endTimestamp);
 		});
 
-		Lua_helper.add_callback(lua, "changeDiscordClientID", function(?newID:String = null) {
+		funk.set("changeDiscordClientID", function(?newID:String = null) {
 			if(newID == null) newID = _defaultID;
 			clientID = newID;
 		});

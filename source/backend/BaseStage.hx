@@ -3,12 +3,8 @@ package backend;
 import flixel.FlxBasic;
 import flixel.FlxObject;
 import flixel.FlxSubState;
-import backend.MusicBeatState;
-
 import objects.Note.EventNote;
 import objects.Character;
-import objects.Note;
-import torchsthings.objects.ReflectedChar;
 
 enum Countdown
 {
@@ -39,17 +35,12 @@ class BaseStage extends FlxBasic
 	public var boyfriendGroup(get, never):FlxSpriteGroup;
 	public var dadGroup(get, never):FlxSpriteGroup;
 	public var gfGroup(get, never):FlxSpriteGroup;
-
-	public var reflectedBF:ReflectedChar;
-	public var reflectedGF:ReflectedChar;
-	public var reflectedDad:ReflectedChar;
 	
 	public var camGame(get, never):FlxCamera;
 	public var camHUD(get, never):FlxCamera;
 	public var camOther(get, never):FlxCamera;
 
 	public var defaultCamZoom(get, set):Float;
-	public var focusedChar(get, set):Character;
 	public var camFollow(get, never):FlxObject;
 
 	public function new()
@@ -73,9 +64,6 @@ class BaseStage extends FlxBasic
 	public function createPost() {}
 	//public function update(elapsed:Float) {}
 	public function countdownTick(count:Countdown, num:Int) {}
-	public function startSong() {}
-	public function onEndSong() {}
-	public function onGameOver() {}
 
 	// FNF steps, beats and sections
 	public var curBeat:Int = 0;
@@ -86,7 +74,7 @@ class BaseStage extends FlxBasic
 	public function beatHit() {}
 	public function stepHit() {}
 	public function sectionHit() {}
-	public function setAudioAndStart(isStart:Bool) {}
+
 	// Substate close/open, for pausing Tweens/Timers
 	public function closeSubState() {}
 	public function openSubState(SubState:FlxSubState) {}
@@ -95,11 +83,6 @@ class BaseStage extends FlxBasic
 	public function eventCalled(eventName:String, value1:String, value2:String, flValue1:Null<Float>, flValue2:Null<Float>, strumTime:Float) {}
 	public function eventPushed(event:EventNote) {}
 	public function eventPushedUnique(event:EventNote) {}
-
-	public function goodNoteHit(note:Note) {}
-	public function opponentNoteHit(note:Note) {}
-	public function noteMiss(note:Note) {}
-	public function noteMissPress(direction:Int) {}
 
 	// Things to replace FlxGroup stuff and inject sprites directly into the state
 	function add(object:FlxBasic) game.add(object);
@@ -135,7 +118,7 @@ class BaseStage extends FlxBasic
 	function startCountdown() if(onPlayState) return PlayState.instance.startCountdown(); else return false;
 	function endSong() if(onPlayState)return PlayState.instance.endSong(); else return false;
 	function moveCameraSection() if(onPlayState) moveCameraSection();
-	function moveCamera(isDad:Bool, ?sec:Null<Int>) if(onPlayState) moveCamera(isDad, sec);
+	function moveCamera(isDad:Bool) if(onPlayState) moveCamera(isDad);
 	inline private function get_paused() return game.paused;
 	inline private function get_songName() return game.songName;
 	inline private function get_isStoryMode() return PlayState.isStoryMode;
@@ -177,12 +160,6 @@ class BaseStage extends FlxBasic
 	{
 		game.defaultCamZoom = value;
 		return game.defaultCamZoom;
-	}
-	inline private function get_focusedChar():Character return game.focusedChar;
-	inline private function set_focusedChar(char:Character):Character
-	{
-		game.focusedChar = char;
-		return game.focusedChar;
 	}
 	inline private function get_camFollow():FlxObject return game.camFollow;
 }
