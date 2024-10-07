@@ -3,7 +3,6 @@ package options;
 import backend.StageData;
 import objects.Character;
 import objects.Bar;
-import torchsthings.objects.ImageBar;
 import flixel.addons.display.shapes.FlxShapeCircle;
 
 import states.stages.StageWeek1 as BackgroundStage;
@@ -30,7 +29,6 @@ class NoteOffsetState extends MusicBeatState
 	var timeTxt:FlxText;
 	var beatText:Alphabet;
 	var beatTween:FlxTween;
-	var healthBar:ImageBar;
 
 	var changeModeText:FlxText;
 
@@ -145,13 +143,6 @@ class NoteOffsetState extends MusicBeatState
 		add(timeBar);
 		add(timeTxt);
 
-		// Only added this here for better positioning with the combo and rating settings
-		healthBar = new ImageBar(0, FlxG.height * (!ClientPrefs.data.downScroll ? 0.87 /*0.88*/: 0.06 /*0.12*/), ['healthBars/new_healthBar', null], ['healthBars/new_healthBar', null], FlxColor.fromRGB(gf.healthColorArray[0], gf.healthColorArray[1], gf.healthColorArray[2]), FlxColor.fromRGB(boyfriend.healthColorArray[0], boyfriend.healthColorArray[1], boyfriend.healthColorArray[2]), null, 0, 2);
-		healthBar.screenCenter(X);
-		healthBar.leftToRight = false;
-		healthBar.scrollFactor.set();
-		add(healthBar);
-
 		///////////////////////
 
 		var blackBox:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, 40, FlxColor.BLACK);
@@ -179,6 +170,9 @@ class NoteOffsetState extends MusicBeatState
 		Conductor.bpm = 128.0;
 		FlxG.sound.playMusic(Paths.music('offsetSong'), 1, true);
 
+		addVirtualPad(LEFT_FULL, A_B_C);
+		addVirtualPadCamera(false);
+
 		super.create();
 	}
 
@@ -186,8 +180,8 @@ class NoteOffsetState extends MusicBeatState
 	var onComboMenu:Bool = true;
 	var holdingObjectType:Null<Bool> = null;
 
-	var startMousePos:FlxPoint = new FlxPoint();
-	var startComboOffset:FlxPoint = new FlxPoint();
+	var startMousePos:FlxPoint = FlxPoint.get();
+	var startComboOffset:FlxPoint = FlxPoint.get();
 
 	override public function update(elapsed:Float)
 	{
@@ -355,7 +349,7 @@ class NoteOffsetState extends MusicBeatState
 				}
 			}
 
-			if(controls.RESET)
+			if(controls.RESET || virtualPad.buttonC.justPressed)
 			{
 				for (i in 0...ClientPrefs.data.comboOffset.length)
 				{
@@ -393,7 +387,7 @@ class NoteOffsetState extends MusicBeatState
 				updateNoteDelay();
 			}
 
-			if(controls.RESET)
+			if(controls.RESET || virtualPad.buttonC.justPressed)
 			{
 				holdTime = 0;
 				barPercent = 0;
@@ -547,11 +541,21 @@ class NoteOffsetState extends MusicBeatState
 		else
 			str = 'Note/Beat Delay';
 
-		if(!controls.controllerMode)
-			str2 = '(Press Accept to Switch)';
-		else
-			str2 = '(Press Start to Switch)';
+                if (controls.mobileC) {
+		str2 = '(Press A to Switch)';
+                } else {
+					if(!controls.controllerMode)
+						str2 = '(Press Accept to Switch)';
+					else
+						str2 = '(Press Start to Switch)';
+                }
 
 		changeModeText.text = '< ${str.toUpperCase()} ${str2.toUpperCase()} >';
+	}
+
+	override function destroy(){
+		startMousePos.put();
+		startComboOffset.put();
+		super.destroy();
 	}
 }

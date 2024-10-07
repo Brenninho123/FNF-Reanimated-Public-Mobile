@@ -6,6 +6,7 @@ class GraphicsSettingsSubState extends BaseOptionsMenu
 {
 	var antialiasingOption:Int;
 	var boyfriend:Character = null;
+
 	public function new()
 	{
 		title = 'Graphics';
@@ -34,21 +35,15 @@ class GraphicsSettingsSubState extends BaseOptionsMenu
 		antialiasingOption = optionsArray.length-1;
 
 		var option:Option = new Option('Shaders', //Name
-			"If unchecked, disables shaders.\nIt's used for some visual effects, and also CPU intensive for weaker PCs.", //Description
+			"If unchecked, disables shaders.\nIt's used for some visual effects, and also CPU intensive for weaker " + Main.platform + ".", //Description
 			'shaders',
 			'bool');
 		addOption(option);
 
 		var option:Option = new Option('GPU Caching', //Name
-			"If checked, allows the GPU to be used for caching textures, decreasing RAM usage.\nDon't turn this on if you have a shitty Graphics Card.", //Description
+			"If checked, allows the GPU to be used for caching textures, decreasing RAM usage.", //Description
 			'cacheOnGPU',
 			'bool');
-		addOption(option);
-
-		var option:Option = new Option('Load Locked Characters', //Name
-			"If checked, loads locked characters in the Character Menu", //Description
-			'loadLockedChars', //Save data variable name
-			'bool'); //Variable type
 		addOption(option);
 
 		#if !html5 //Apparently other framerates isn't correctly supported on Browser? Probably it has some V-Sync shit enabled by default, idk

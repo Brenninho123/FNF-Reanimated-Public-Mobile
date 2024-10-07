@@ -1,5 +1,7 @@
 package options;
 
+import lime.ui.Haptic;
+
 class GameplaySettingsSubState extends BaseOptionsMenu
 {
 	public function new()
@@ -39,11 +41,24 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 		addOption(option);
 		option.onChange = onChangeAutoPause;
 
+		var option:Option = new Option('Pop Up Score',
+			"If unchecked, hitting notes won't make \"sick\", \"good\".. and combo popups (Useful for low end " + Main.platform + ").",
+			'popUpRating',
+			'bool');
+		addOption(option);
+
 		var option:Option = new Option('Disable Reset Button',
 			"If checked, pressing Reset won't do anything.",
 			'noReset',
 			'bool');
 		addOption(option);
+
+		var option:Option = new Option('Game Over Vibration',
+			"If checked, your device will vibrate at game over.",
+			'gameOverVibration',
+			'bool');
+		addOption(option);
+		option.onChange = onChangeVibration;
 
 		var option:Option = new Option('Hitsound Volume',
 			'Funny notes does \"Tick!\" when you hit them.',
@@ -108,9 +123,9 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 		addOption(option);
 
 		var option:Option = new Option('Sustains as One Note',
-		"If checked, Hold Notes can't be pressed if you miss,\nand count as a single Hit/Miss.\nUncheck this if you prefer the old Input System.",
-		'guitarHeroSustains',
-		'bool');
+			"If checked, Hold Notes can't be pressed if you miss,\nand count as a single Hit/Miss.\nUncheck this if you prefer the old Input System.",
+			'guitarHeroSustains',
+			'bool');
 		addOption(option);
 
 		super();
@@ -119,6 +134,15 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 	function onChangeHitsoundVolume()
 		FlxG.sound.play(Paths.sound('hitsound'), ClientPrefs.data.hitsoundVolume);
 
-	function onChangeAutoPause()
+	function onChangeAutoPause() {
 		FlxG.autoPause = ClientPrefs.data.autoPause;
+	}
+
+	function onChangeVibration()
+	{
+		if(ClientPrefs.data.gameOverVibration)
+		{
+			Haptic.vibrate(0, 500);
+		}
+	}
 }
