@@ -1,7 +1,7 @@
 package backend;
 
+import flixel.util.FlxSave;
 import openfl.utils.Assets;
-import lime.utils.Assets as LimeAssets;
 
 class CoolUtil
 {
@@ -106,29 +106,6 @@ class CoolUtil
 		FlxG.openURL(site);
 		#end
 	}
-	
-	inline public static function isMouseWithinBounds(px:Float, py:Float, left:Float, top:Float, right:Float, bottom:Float):Bool {
-
-        if (px > left && py > top && px < right && py < bottom) {
-            return true;
-        }
-        
-        return false;
-    }
-
-	inline public static function triangleArea(x1:Float, y1:Float, x2:Float, y2:Float, x3:Float, y3:Float):Float {
-        return Math.abs((x1*(y2-y3) + x2*(y3-y1) + x3*(y1-y2)) / 2);
-    }
-
-    // Función para verificar si las coordenadas del ratón están dentro del triángulo especificado
-    inline public static function isMouseInTriangle(px:Float, py:Float, x1:Float, y1:Float, x2:Float, y2:Float, x3:Float, y3:Float):Bool {
-        var A:Float = triangleArea(x1, y1, x2, y2, x3, y3);
-        var A1:Float = triangleArea(px, py, x2, y2, x3, y3);
-        var A2:Float = triangleArea(x1, y1, px, py, x3, y3);
-        var A3:Float = triangleArea(x1, y1, x2, y2, px, py);
-
-        return (A == A1 + A2 + A3);
-    }
 
 	inline public static function openFolder(folder:String, absolute:Bool = false) {
 		#if sys
@@ -145,7 +122,7 @@ class CoolUtil
 			Sys.command(command, [folder]);
 			trace('$command $folder');
 		#else
-			FlxG.error("Platform is not supported for CoolUtil.openFolder");
+			FlxG.log.error("Platform is not supported for CoolUtil.openFolder");
 		#end
 	}
 
